@@ -1,6 +1,6 @@
 [![Download Link]][DL]&emsp;[![Discord]][D]&emsp;[![Fractal]][F]&emsp;
 
-[Download Link]: https://img.shields.io/badge/v1.0-Downloadlink-Green
+[Download Link]: https://img.shields.io/badge/v1.1-Downloadlink-Green
 [DL]: https://drive.google.com/file/d/1Dtawkals-ofzecG09gnaiCOX0KJeIpXn/view?usp=sharing
 [Discord]: https://img.shields.io/badge/Starsector%20Discord-%233381ff
 [D]: https://discord.com/invite/a8AWVcPCPr
