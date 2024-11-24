@@ -29,7 +29,7 @@ v1.0
 - ATTEPTS TO TAKE THE GAME EXPERIENCE TO THE NEXT LEVEL WITH SOME OF THE BEST MODS STARTSECTOR HAS TO OFFER.
 - TOTALS AT 87 MODS FROM THE FORUMS, DISCORD AND PERSONAL BOOTLEGS.
 
-# Modlist [80*]
+# Modlist [83*]
 LIBS
 - Ash Lib
 - GraphicsLib
@@ -82,6 +82,7 @@ CONTENT
 - More HullMods
 - More Planetary Conditions
 - MoreBarMissions
+- Music Switcher
 - Nexerelin
 - Officer Extension
 - PAGSM
