@@ -48,6 +48,7 @@ CONTENT
 - Ashes of the Domain VOS
 - Ashes of the Domain QOL
 - Astral Ascension
+- Banners unto Nes
 - Better Colonies
 - Better Combat
 - Carrier UI
@@ -58,7 +59,6 @@ CONTENT
 - Console Commands
 - Content Unlocking Missions
 - CustomizableStarSystems
-- Dassault-Mikoyan Engineering
 - DetailedCombatResults
 - Diktat Enhancement
 - Emergent Threats
@@ -74,6 +74,7 @@ CONTENT
 - Kazeron Navarchy
 - Knights of Ludd
 - Larger Zoom Out
+- Lemon MEGA Portrait Pack
 - Luddic Enhancement
 - Magic Achievements
 - Mayasuran Navy
@@ -88,7 +89,6 @@ CONTENT
 - Persean-Chronicles
 - PlanetSearch
 - PMMM
-- PracticeTargets
 - Progressive S-Mods
 - Random-Assortment-of-Things
 - Ruthless Sector
@@ -102,17 +102,14 @@ CONTENT
 - Stelnet
 - Substance Abuse
 - Suitable Star Systems
-- Superweapons Arsenal
 - Supply Forging
 - Tahlan Shipworks
 - TakeNoPrisoners
-- TASC?
 - Terraforming and Station Construction
 - TMI
 - Transfer All Items
 - UAF
 - Unknown Skies
 - Unusually Gullible Hullmods
-- VayraMerged
 - VIC
 - What We Left Behind
