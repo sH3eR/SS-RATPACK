@@ -1,14 +1,25 @@
 [![Download Link]][DL]&emsp;[![Discord]][D]&emsp;[![Fractal]][F]&emsp;
 
-[Download Link]: https://img.shields.io/badge/v1.0-Downloadlink-Green
-[DL]: https://drive.google.com/file/d/1Dtawkals-ofzecG09gnaiCOX0KJeIpXn/view?usp=sharing
+[Download Link]: https://img.shields.io/badge/v1.1-Downloadlink-Green
+[DL]: https://drive.google.com/file/d/1R3ZO0fFLy_57VQZMuFSYBH5sWnXXgwxL/view?usp=sharing
 [Discord]: https://img.shields.io/badge/Starsector%20Discord-%233381ff
 [D]: https://discord.com/invite/a8AWVcPCPr
 [Fractal]: https://img.shields.io/badge/Starsector%20Forums-%23e3ecfa
 [F]: https://fractalsoftworks.com/forum/index.php
 
 # Changelog
+V1.1.1
+- UPDATED NEX
+- UPDATED AOTD
+- UPDATED AI TWEAKS
+- UPDATED KNIGHTS OF LUDD
+- UPDATED OFFICER EXTENSION
+- UPDATED PROGRESSIVE S MODS
+- ADDED MORE MILITARY MISSIONS
+- COUPLE BUG FIXES
+
 v1.1
+- CLEANED UP MODLIST
 - ADDED MORE FLAGS
 - ADDED MORE WAIFUS
 - REMOVED VAYRA *MAY ADD BACK LATER
@@ -29,7 +40,7 @@ v1.0
 - ATTEPTS TO TAKE THE GAME EXPERIENCE TO THE NEXT LEVEL WITH SOME OF THE BEST MODS STARTSECTOR HAS TO OFFER.
 - TOTALS AT 87 MODS FROM THE FORUMS, DISCORD AND PERSONAL BOOTLEGS.
 
-# Modlist [87*]
+# Modlist [83*]
 LIBS
 - Ash Lib
 - GraphicsLib
@@ -48,6 +59,7 @@ CONTENT
 - Ashes of the Domain VOS
 - Ashes of the Domain QOL
 - Astral Ascension
+- Banners unto Nes
 - Better Colonies
 - Better Combat
 - Carrier UI
@@ -58,7 +70,6 @@ CONTENT
 - Console Commands
 - Content Unlocking Missions
 - CustomizableStarSystems
-- Dassault-Mikoyan Engineering
 - DetailedCombatResults
 - Diktat Enhancement
 - Emergent Threats
@@ -81,6 +92,8 @@ CONTENT
 - More HullMods
 - More Planetary Conditions
 - MoreBarMissions
+- More Military Missions
+- Music Switcher
 - Nexerelin
 - Officer Extension
 - PAGSM
@@ -88,7 +101,6 @@ CONTENT
 - Persean-Chronicles
 - PlanetSearch
 - PMMM
-- PracticeTargets
 - Progressive S-Mods
 - Random-Assortment-of-Things
 - Ruthless Sector
@@ -102,17 +114,14 @@ CONTENT
 - Stelnet
 - Substance Abuse
 - Suitable Star Systems
-- Superweapons Arsenal
 - Supply Forging
 - Tahlan Shipworks
 - TakeNoPrisoners
-- TASC?
 - Terraforming and Station Construction
 - TMI
 - Transfer All Items
 - UAF
 - Unknown Skies
 - Unusually Gullible Hullmods
-- VayraMerged
 - VIC
 - What We Left Behind
